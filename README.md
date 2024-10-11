@@ -1,7 +1,9 @@
 # Daniel Expósito Patiño
 <details>
 <summary>How to pronounce my name</summary>
+  
 > Emphasis is placed in the bolded syllables in each word: Dani**el** Ex**pó**sito Pa**ti**ño . Additionally, the letter ñ is pronounced as gn in french (champignon) or close to ny (canyon) in english.
+> 
 </details>
 I am a master graduate from the University of Copenhagen currently looking for a PhD. My interests are broad but intersect the fields of geometric
 topology, higher algebra, algebraic K-theory and stable homotopy theory. I’m often specially keen on geometric applications of algebraic machines.
