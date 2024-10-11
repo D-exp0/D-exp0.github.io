@@ -15,14 +15,19 @@ Supervised by [Fernando Alcalde Cuesta](https://arxiv.org/search/math?searchtype
 
 ## Projects and notes
 -A map for infinity-categories' explorers (2024)
+
 -Six Functor Formalisms
+
 -The s-cobordism Theorem and Surgery Theory
+
 -The Pontryagin-Thom Isomorphism
 
 ## Teaching 
 All positions held in the University of Copenhagen, department of Computer Science.
 -Introduction to Data Science [(IDS)](https://kurser.ku.dk/course/ndak16003u)
+
 -Modelling and Analysis of Data [(MAD)](https://kurser.ku.dk/course/ndab16012u)
+
 -Matematisk analyse og sandsynlighedsteori i datalogi [(MASD)](https://kurser.ku.dk/course/NDAB18002U)
 
 ## Miscellanea 
