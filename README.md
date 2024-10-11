@@ -5,8 +5,10 @@
 > Emphasis is placed in the bolded syllables in each word: Dani**el** Ex**pó**sito Pa**ti**ño . Additionally, the letter ñ is pronounced as gn in french (champignon) or close to ny (canyon) in english.
 > 
 </details>
-I am a master graduate from the University of Copenhagen currently looking for a PhD. My interests are broad but intersect the fields of geometric
+I am a master graduate from the [University of Copenhagen](https://geotop.math.ku.dk/), currently looking for a PhD. My interests are broad but intersect the fields of geometric
 topology, higher algebra, algebraic K-theory and stable homotopy theory. I’m often specially keen on geometric applications of algebraic machines.
+
+My CV is available upon request. You can email me at   depa at di dot ku dot dk.
 
 ## Theses
 - Master thesis, _Classification of n-connective (2n-2)-truncated local systems_ (University of Copenhagen, 2023)
