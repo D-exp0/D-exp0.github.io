@@ -9,20 +9,22 @@ I am a master graduate from the University of Copenhagen currently looking for a
 topology, higher algebra, algebraic K-theory and stable homotopy theory. I’m often specially keen on geometric applications of algebraic machines.
 
 ## Theses
--Master thesis, _Classification of n-connective (2n-2)-truncated local systems_ (University of Copenhagen)
+-Master thesis, _Classification of n-connective (2n-2)-truncated local systems_ (University of Copenhagen, 2023)
+
 Supervised by [Shachar Carmeli](https://sites.google.com/view/shachar-carmeli/home) and [Maxime Ramzi](https://sites.google.com/view/maxime-ramzi-en). Awarded with 12/12.
 
--Bachelor thesis, _Classification of compact surfaces using surgery_ (University of Santiago de Compostela)
-Supervised by [Fernando Alcalde Cuesta](https://arxiv.org/search/math?searchtype=author&query=Cuesta%2C+F+A)
+-Bachelor thesis, _Classification of compact surfaces using surgery_ (University of Santiago de Compostela, 2021)
+
+Supervised by [Fernando Alcalde Cuesta](https://arxiv.org/search/math?searchtype=author&query=Cuesta%2C+F+A). Awarded with 10/10.
 
 ## Projects and notes
 -A map for infinity-categories' explorers (2024)
 
--Six Functor Formalisms
+-Six Functor Formalisms (2023)
 
--The s-cobordism Theorem and Surgery Theory
+-The s-cobordism Theorem and Surgery Theory (2022)
 
--The Pontryagin-Thom Isomorphism
+-The Pontryagin-Thom Isomorphism (2022)
 
 ## Teaching 
 All positions held in the University of Copenhagen, department of Computer Science.
