@@ -3,8 +3,9 @@
 <summary>How to pronounce my name</summary>
   
 > Emphasis is placed in the bolded syllables in each word: Dani**el** Ex**pó**sito Pa**ti**ño . Additionally, the letter ñ is pronounced as gn in french (champignon) or close to ny (canyon) in english.
-> 
+ 
 </details>
+
 I am a master graduate from the [University of Copenhagen](https://geotop.math.ku.dk/), currently looking for a PhD. My interests are broad but intersect the fields of geometric
 topology, higher algebra, algebraic K-theory and stable homotopy theory. I’m often specially keen on geometric applications of algebraic machines.
 
@@ -29,12 +30,16 @@ My CV is available upon request. You can email me at   depa at di dot ku dot dk.
 - The Pontryagin-Thom Isomorphism (2022)
 
 ## Teaching 
-All positions held in the University of Copenhagen, department of Computer Science.
+Teacher Assistant positions I held at the University of Copenhagen, department of Computer Science. Responsabilities included holding exercise classes, creating exercise sheets (IDS), assisting students and grading assignments.
 
-- Introduction to Data Science [(IDS)](https://kurser.ku.dk/course/ndak16003u)
+- Introduction to Data Science [block 3, spring semester 23-24] [(IDS)](https://kurser.ku.dk/course/ndak16003u)
 
-- Modelling and Analysis of Data [(MAD)](https://kurser.ku.dk/course/ndab16012u)
+  > The purpose of the course is to introduce non-Computer Science students to probabilistic data modelling and the most common techniques from statistical machine learning and data mining. The students will obtain a working knowledge of basic data modelling and data analysis using fundamental machine learning techniques. 
 
-- Matematisk analyse og sandsynlighedsteori i datalogi [(MASD)](https://kurser.ku.dk/course/NDAB18002U)
+- Modelling and Analysis of Data [block 2, winter semester 22-23] [(MAD)](https://kurser.ku.dk/course/ndab16012u)
+
+  > The purpose of the course is to provide a basic and broad introduction to the representation, analysis, and processing of sampled data. The course will introduce the student to statistical analysis, mathematical modelling, machine learning and visualisation for experimental data. Examples will be taken from real-world problems, such as analysis of internet traffic, language technology, digital sound and image processing, etc.
+
+- Mathematical Analysis and Probability Theory for Computer Scientists [block 1, winter semester 22-23] [(MASD)](https://kurser.ku.dk/course/NDAB18002U)
 
 ## Miscellanea 
