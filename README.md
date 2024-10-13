@@ -44,6 +44,6 @@ Teacher Assistant positions I held at the University of Copenhagen, department o
 
 - Mathematical Analysis and Probability Theory for Computer Scientists [block 1, winter semester 22-23] [(MASD)](https://kurser.ku.dk/course/NDAB18002U)
   
-> The course provides an introduction to analysis in one and more variables. The course also provides an introduction to probability theory.
+  > The course provides an introduction to analysis in one and more variables. The course also provides an introduction to probability theory.
 
 ## Miscellanea 
