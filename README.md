@@ -3,6 +3,8 @@
 <summary>How to pronounce my name</summary>
   
 > Emphasis is placed in the bolded syllables in each word: Dani**el** Ex**pó**sito Pa**ti**ño . Additionally, the letter ñ is pronounced as gn in french (champignon) or close to ny (canyon) in english.
+
+
  
 </details>
 
@@ -41,5 +43,7 @@ Teacher Assistant positions I held at the University of Copenhagen, department o
   > The purpose of the course is to provide a basic and broad introduction to the representation, analysis, and processing of sampled data. The course will introduce the student to statistical analysis, mathematical modelling, machine learning and visualisation for experimental data. Examples will be taken from real-world problems, such as analysis of internet traffic, language technology, digital sound and image processing, etc.
 
 - Mathematical Analysis and Probability Theory for Computer Scientists [block 1, winter semester 22-23] [(MASD)](https://kurser.ku.dk/course/NDAB18002U)
+  
+> The course provides an introduction to analysis in one and more variables. The course also provides an introduction to probability theory.
 
 ## Miscellanea 
