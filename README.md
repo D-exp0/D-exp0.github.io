@@ -8,6 +8,8 @@
  
 </details>
 
+$~$
+
 I am a master graduate from the [University of Copenhagen](https://geotop.math.ku.dk/), currently looking for a PhD. My interests are broad but intersect the fields of geometric
 topology, higher algebra, algebraic K-theory and stable homotopy theory. I’m often specially keen on geometric applications of algebraic machines.
 
