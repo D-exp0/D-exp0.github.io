@@ -2,7 +2,7 @@
 <details>
 <summary>How to pronounce my name</summary>
   
-> Emphasis is placed in the bolded syllables in each word: Dani**el** Ex**pó**sito Pa**ti**ño . Additionally, the letter ñ is pronounced as gn in french (champignon) or close to ny (canyon) in english.
+ Emphasis is placed in the bolded syllables in each word: Dani**el** Ex**pó**sito Pa**ti**ño . Additionally, the letter ñ is pronounced as gn in french (champignon) or close to ny (canyon) in english.
 
 
  
