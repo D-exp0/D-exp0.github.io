@@ -31,7 +31,7 @@ Supervised by [Fernando Alcalde Cuesta](https://arxiv.org/search/math?searchtype
 </details> 
 
 <details><summary><strong>Six Functor Formalisms (early 2023) </strong></summary>
-  Notes from a talk I gave as part of the course <a href="[url](https://kurser.ku.dk/course/nmak15023u)">Topics in Algebraic Topology</a> at KU. Primarily based on an article by Lucas Mann and lecture notes by Peter Scholze. I received guidance from Quinyuan Bai and Lars Hesselholt for the production of the notes.
+  Notes from a talk I gave as part of the course <a href="https://kurser.ku.dk/course/nmak15023u">Topics in Algebraic Topology</a> at KU. Primarily based on an article by Lucas Mann and lecture notes by Peter Scholze. I received guidance from Quinyuan Bai and Lars Hesselholt for the production of the notes.
 </details> 
 
 <details><summary><strong>The s-cobordism Theorem and Surgery Theory (2022) </strong></summary>
