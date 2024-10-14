@@ -50,9 +50,9 @@ Teacher Assistant positions I held at the University of Copenhagen, department o
   > The course provides an introduction to analysis in one and more variables. The course also provides an introduction to probability theory.
 
 ## Miscellanea 
-<details open> <summary>Online course on Topological Data Analysis, organized by the Spanish Topology Network </summary>
+<details open> <summary><strong>Online course on Topological Data Analysis, organized by the Spanish Topology Network</strong></summary>
 It included talks by Vidit Nanda explaining persistence modules, barcodes and the stability theorem; by Robert Ghrist on euler & persistence homology transforms, space reconstruction and cellular cosheaves for distributed systems and by Bastian Rieck on topological machine learning, topological autoencoders and graph learning applications. Additionally, Aina Ferrà and Rubén Ballester (PhD students in Barcelona) showed TDA implementations with emphasis on Gudhi and Ripster. Details on the contents and links to recordings can be found <a href="[url](https://sites.google.com/view/introductiontotda/schedule-and-index)">here</a>.
 </details>
-<details open><summary>Short research project supervised by Nathalie Wahl (block 3, 2024, KU)</summary>
+<details open><summary><strong>Short research project supervised by Nathalie Wahl (block 3, 2024, KU)</strong></summary>
   On homological stability of mapping class groups of non-orientable surfaces. We were trying to adapt the strategy of [Harr-Vistrup-Wahl](https://arxiv.org/abs/2211.03858) of using Yang-Baxter elements to get a E1-module over the braid group structure on a certain category of bidecorated surfaces, which would allow us to access a homological stability result by Krannich. Time run out while trying to prove connectivity of a modified arc complex, thus we didn't reach the desired result. Still, I got to learn about the current research on the topic.
 </details>
