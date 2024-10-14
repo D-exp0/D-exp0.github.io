@@ -2,7 +2,7 @@
 <details>
 <summary>How to pronounce my name</summary>
   
- Emphasis is placed in the highlighted syllables in each word: Dani<strong>el</strong> Ex<strong>pó</strong>sito Pa<strong>ti</strong>ño. Additionally, the letter ñ is pronounced as gn in french (champignon) or close to ny in english (canyon).
+Emphasis is placed in the highlighted syllables in each word: Dani<strong>el</strong> Ex<strong>pó</strong>sito Pa<strong>ti</strong>ño. Additionally, the letter ñ is pronounced as gn in french (champignon) or close to ny in english (canyon).
  
 </details>
 <br/>
@@ -26,13 +26,21 @@ Supervised by [Shachar Carmeli](https://sites.google.com/view/shachar-carmeli/ho
 Supervised by [Fernando Alcalde Cuesta](https://arxiv.org/search/math?searchtype=author&query=Cuesta%2C+F+A). Awarded with 10/10.
 
 ## Projects and notes
-- A map for infinity-categories' explorers (under construction, 2024)
+<details><summary><strong>A map for infinity-categories' explorers (under construction, 2024) </strong></summary>
+  
+</details> 
 
-- Six Functor Formalisms (2023)
+<details><summary><strong>Six Functor Formalisms (early 2023) </strong></summary>
+  Notes from a talk I gave as part of the course <a href="[url](https://kurser.ku.dk/course/nmak15023u)">Topics in Algebraic Topology</a> at KU. Primarily based on an article by Lucas Mann and lecture notes by Peter Scholze. I received guidance from Quinyuan Bai and Lars Hesselholt for the production of the notes.
+</details> 
 
-- The s-cobordism Theorem and Surgery Theory (2022)
+<details><summary><strong>The s-cobordism Theorem and Surgery Theory (2022) </strong></summary>
+  
+</details>
 
-- The Pontryagin-Thom Isomorphism (2022)
+<details><summary><strong>The Pontryagin-Thom Isomorphism (2022) </strong></summary>
+  
+</details>
 
 ## Teaching 
 Teacher Assistant positions I held at the University of Copenhagen, department of Computer Science. Responsabilities included holding exercise classes, creating exercise sheets (IDS), assisting students and grading assignments.
@@ -53,6 +61,6 @@ Teacher Assistant positions I held at the University of Copenhagen, department o
 <details open> <summary><strong>Online course on Topological Data Analysis, organized by the Spanish Topology Network, 2024</strong></summary>
 It included talks by Vidit Nanda explaining persistence modules, barcodes and the stability theorem; by Robert Ghrist on euler & persistence homology transforms, space reconstruction and cellular cosheaves for distributed systems and by Bastian Rieck on topological machine learning, topological autoencoders and graph learning applications. Additionally, Aina Ferrà and Rubén Ballester (PhD students in Barcelona) showed TDA implementations with emphasis on Gudhi and Ripster. Details on the contents and links to recordings can be found <a href="[url](https://sites.google.com/view/introductiontotda/schedule-and-index)">here</a>.
 </details>
-<details open><summary><strong>Short research project supervised by Nathalie Wahl (block 3, 2024, KU)</strong></summary>
-  On homological stability of mapping class groups of non-orientable surfaces. We were trying to adapt the strategy of [Harr-Vistrup-Wahl](https://arxiv.org/abs/2211.03858) of using Yang-Baxter elements to get a E1-module over the braid group structure on a certain category of bidecorated surfaces, which would allow us to access a homological stability result by Krannich. Time run out while trying to prove connectivity of a modified arc complex, thus we didn't reach the desired result. Still, I got to learn about the current research on the topic.
+<details open><summary><strong>Short research project supervised by Nathalie Wahl (block 4, 2024, KU)</strong></summary>
+  On homological stability of mapping class groups of non-orientable surfaces. We were trying to adapt the strategy of <a href="[url](https://arxiv.org/abs/2211.03858)">Harr-Vistrup-Wahl</a> of using Yang-Baxter elements to get a E1-module over the braid group structure on a certain category of bidecorated surfaces, which would allow us to access a homological stability result by Krannich. Time run out while trying to prove connectivity of a modified arc complex, thus we didn't reach the desired result. Still, I got to learn about the current research on the topic.
 </details>
