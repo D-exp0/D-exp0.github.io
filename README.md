@@ -2,7 +2,7 @@
 <details>
 <summary>How to pronounce my name</summary>
   
- Emphasis is placed in the highlighted syllables in each word: Dani<strong>el</strong> Ex<strong>pó</strong>sito Pa<strong>ti</strong>ño . Additionally, the letter ñ is pronounced as gn in french (champignon) or close to ny (canyon) in english.
+ Emphasis is placed in the highlighted syllables in each word: Dani<strong>el</strong> Ex<strong>pó</strong>sito Pa<strong>ti</strong>ño . Additionally, the letter ñ is pronounced as gn in french (champignon) or close to ny in english (canyon).
  
 </details>
 <br/>
@@ -13,11 +13,15 @@ topology, higher algebra, algebraic K-theory and stable homotopy theory. I’m o
 My CV is available upon request. You can email me at   depa at di dot ku dot dk.
 
 ## Theses
-- Master thesis, _Classification of n-connective (2n-2)-truncated local systems_ (University of Copenhagen, 2023)
-
+- <details><summary>Master thesis, <i>Classification of n-connective (2n-2)-truncated local systems</i> (University of Copenhagen, 2023)</summary>
+  
+  </details>
+  
    Supervised by [Shachar Carmeli](https://sites.google.com/view/shachar-carmeli/home) and [Maxime Ramzi](https://sites.google.com/view/maxime-ramzi-en). Awarded with 12/12.
 
-- Bachelor thesis, _Classification of compact surfaces using surgery_ (University of Santiago de Compostela, 2021)
+- <details><summary>Bachelor thesis, <i>Classification of compact surfaces using surgery</i> (University of Santiago de Compostela, 2021)</summary>
+  
+  </details>
 
    Supervised by [Fernando Alcalde Cuesta](https://arxiv.org/search/math?searchtype=author&query=Cuesta%2C+F+A). Awarded with 10/10.
 
