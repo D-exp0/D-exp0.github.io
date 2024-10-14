@@ -2,7 +2,7 @@
 <details>
 <summary>How to pronounce my name</summary>
   
-Emphasis is placed in the highlighted syllables in each word: Dani<strong>el</strong> Ex<strong>pó</strong>sito Pa<strong>ti</strong>ño. Additionally, the letter ñ is pronounced as gn in french (champignon) or close to ny in english (canyon).
+Emphasis is placed in the highlighted syllables in each word: Dani<strong>el</strong> Ex<strong>pó</strong>sito Pa<strong>ti</strong>ño. Additionally, the letter ñ is pronounced as gn in french (champignon) or close to ny in english (canyon). Write \tilde{n} for typesetting ñ on LaTeX.
  
 </details>
 <br/>
