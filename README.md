@@ -27,7 +27,7 @@ Supervised by [Fernando Alcalde Cuesta](https://arxiv.org/search/math?searchtype
 
 ## Projects and notes
 <details><summary><strong>A map for infinity-categories' explorers (2024) </strong> <a href="">pdf</a>, under construction</summary>
-  
+  A schematic recounting of what ∞-categories are, some of the key areas they unlock and interesting applications of higher algebraic concepts. Priority is given to showing varied aspects of the theory while trying to stay short and accesible, as the excuse for this project is to explain it to my brother, but hopefully it's useful for others, too.
 </details> 
 
 <details><summary><strong>Six Functor Formalisms (early 2023) </strong> <a href="5. Daniel, Six functor formalism.pdf">pdf</a></summary>
@@ -35,11 +35,11 @@ Supervised by [Fernando Alcalde Cuesta](https://arxiv.org/search/math?searchtype
 </details> 
 
 <details><summary><strong>The s-cobordism Theorem and Surgery Theory (2022) </strong><a href="Surgery.pdf">pdf</a></summary>
-  
+  Our main reference was the book by Wolfgang Lück and Tibor Macko. We began with some morse theory and handle decompositions, studied lemmas that allow us to simplify a handle decomposition to the fullest extent and CW-structures. We delved into K(ZG) and various definitions for the Whitehead group, whitehead torsion and Reidemeister torsion. Afterwards we proved the s-cobordism theorem and used it to show the Poincaré conjecture for dim bigger then 5. Grade 12/12, exam was a 40 min presentation.
 </details>
 
 <details><summary><strong>The Pontryagin-Thom Isomorphism (2022) </strong> <a href="Pontryagin-Thom slides.pdf">pdf</a> </summary>
-  
+  My first hands on approximation to ∞-categories. We recalled the theory of vector bundles, introduced spectra and delved into Thom spaces. Here we related the classical definition and the ∞-categorical one from Ando-Blumberg-Gepner-Hopkins-Rezk, talked about the J-homomorphism and Thom spectra and proved the Thom isomorphism, which we used to compute H<sub>*</sub>(MU). On the last chapter we defined theta structures and proved the Pontryagin-Thom isomorphism, using it to calculate the cobordism ring with an almost complex structure thanks to H<sub>*</sub>(MU) and an degenerate Adams sseq. Grade 12/12, exam was a 1h15 presentation.
 </details>
 
 ## Teaching 
