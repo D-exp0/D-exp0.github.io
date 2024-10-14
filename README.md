@@ -10,7 +10,7 @@
 I am a master graduate from the [University of Copenhagen](https://geotop.math.ku.dk/), currently looking for a PhD. My interests are broad but intersect the fields of geometric
 topology, higher algebra, algebraic K-theory and stable homotopy theory. I’m specially keen on geometric applications of algebraic machines.
 
-My CV is available upon request. You can email me at   depa at di dot ku dot dk.
+My CV is available upon request. You can email me at   depa [at] di [dot] ku [dot] dk.
 
 ## Theses
 <details open><summary><strong>Master thesis, <i>Classification of n-connective (2n-2)-truncated local systems</i> (University of Copenhagen, 2023)</strong></summary>
