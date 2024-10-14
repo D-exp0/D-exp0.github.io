@@ -13,13 +13,13 @@ topology, higher algebra, algebraic K-theory and stable homotopy theory. I’m s
 My CV is available upon request. You can email me at   depa at di dot ku dot dk.
 
 ## Theses
-<details open><summary>Master thesis, <i>Classification of n-connective (2n-2)-truncated local systems</i> (University of Copenhagen, 2023)</summary>
+<details open><summary><strong>Master thesis, <i>Classification of n-connective (2n-2)-truncated local systems</i> (University of Copenhagen, 2023)</strong></summary>
   On it we proved that the truncated unreduced infinity suspension functor τ<sub>≤2n−2</sub>Σ<sup>∞</sup><sub>+</sub> provides an equivalence between the category of n-connective (2n-2)-truncated anima/homotopy types An<sup>[n,2n-2]</sup> and the category of copoints in spectra, ie of maps to the truncated sphere of the form  τ<sub>≤2n−2</sub>Σ<sup>∞</sup><sub>+</sub> X ---> τ<sub>≤2n−2</sub> <strong>S</strong> , which are precisely the images through the mentioned functor of the unique map X ---> * for X in An<sup>[n,2n-2]</sup>. As a corollary, we classify local systems valued on those spaces, generalizing the classical gerbe classification. This is a new result that we believe could help develop the theory of dethomification. Publication is pending.
 </details>
   
 Supervised by [Shachar Carmeli](https://sites.google.com/view/shachar-carmeli/home) and [Maxime Ramzi](https://sites.google.com/view/maxime-ramzi-en). Awarded with 12/12.
 
-<details><summary>Bachelor thesis, <i>Classification of compact surfaces using surgery</i> (University of Santiago de Compostela, 2021)</summary>
+<details><summary><strong>Bachelor thesis, <i>Classification of compact surfaces using surgery</i> (University of Santiago de Compostela, 2021)</strong></summary>
   (Language: galician) The focus of the project was reproving the classification of surfaces theorem using a surgery argument by Zeeman. With group actions on the hyperbolic plane and glueing we present models for each homeo type of surface, we show that C1 surfaces are triangulable using an idea of Weil involving riemannian methods, we define handles and show the different glueing orientations and lastly prove the theorem using surgery techniques and euler characteristic considerations.
 </details>
 
