@@ -5,7 +5,7 @@
  Emphasis is placed in the highlighted syllables in each word: Dani<strong>el</strong> Ex<strong>pó</strong>sito Pa<strong>ti</strong>ño . Additionally, the letter ñ is pronounced as gn in french (champignon) or close to ny (canyon) in english.
  
 </details>
-<br/><br/>
+<br/>
 
 I am a master graduate from the [University of Copenhagen](https://geotop.math.ku.dk/), currently looking for a PhD. My interests are broad but intersect the fields of geometric
 topology, higher algebra, algebraic K-theory and stable homotopy theory. I’m often specially keen on geometric applications of algebraic machines.
