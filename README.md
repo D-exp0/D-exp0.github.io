@@ -50,7 +50,7 @@ Teacher Assistant positions I held at the University of Copenhagen, department o
   > The course provides an introduction to analysis in one and more variables. The course also provides an introduction to probability theory.
 
 ## Miscellanea 
-<details open> <summary><strong>Online course on Topological Data Analysis, organized by the Spanish Topology Network</strong></summary>
+<details open> <summary><strong>Online course on Topological Data Analysis, organized by the Spanish Topology Network, 2024</strong></summary>
 It included talks by Vidit Nanda explaining persistence modules, barcodes and the stability theorem; by Robert Ghrist on euler & persistence homology transforms, space reconstruction and cellular cosheaves for distributed systems and by Bastian Rieck on topological machine learning, topological autoencoders and graph learning applications. Additionally, Aina Ferrà and Rubén Ballester (PhD students in Barcelona) showed TDA implementations with emphasis on Gudhi and Ripster. Details on the contents and links to recordings can be found <a href="[url](https://sites.google.com/view/introductiontotda/schedule-and-index)">here</a>.
 </details>
 <details open><summary><strong>Short research project supervised by Nathalie Wahl (block 3, 2024, KU)</strong></summary>
