@@ -26,7 +26,7 @@ Supervised by [Shachar Carmeli](https://sites.google.com/view/shachar-carmeli/ho
 Supervised by [Fernando Alcalde Cuesta](https://arxiv.org/search/math?searchtype=author&query=Cuesta%2C+F+A). Awarded with 10/10.
 
 ## Projects and notes
-<details><summary><strong>A map for infinity-categories' explorers (under construction, 2024) </strong> <a href="">pdf</a> </summary>
+<details><summary><strong>A map for infinity-categories' explorers (2024) </strong> <a href="">pdf</a>, under construction</summary>
   
 </details> 
 
