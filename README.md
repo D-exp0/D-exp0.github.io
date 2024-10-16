@@ -39,7 +39,7 @@ Supervised by [Fernando Alcalde Cuesta](https://arxiv.org/search/math?searchtype
 </details>
 
 <details><summary><strong>The Pontryagin-Thom Isomorphism (2022) </strong> <a href="Pontryagin-Thom slides.pdf">pdf</a> </summary>
-  My first hands on approximation to ∞-categories. We recalled the theory of vector bundles, introduced spectra and delved into Thom spaces. Here we related the classical definition and the ∞-categorical one from Ando-Blumberg-Gepner-Hopkins-Rezk, talked about the J-homomorphism and Thom spectra and proved the Thom isomorphism, which we used to compute H<sub>*</sub>(MU). On the last chapter we defined theta structures and proved the Pontryagin-Thom isomorphism, using it to calculate the cobordism ring with an almost complex structure thanks to H<sub>*</sub>(MU) and an degenerate Adams sseq. Grade 12/12, exam was a 1h15 presentation.<a href="PTiso.pdf">Incomplete notes</a>
+  My first hands on approximation to ∞-categories. We recalled the theory of vector bundles, introduced spectra and delved into Thom spaces. Here we related the classical definition and the ∞-categorical one from Ando-Blumberg-Gepner-Hopkins-Rezk, talked about the J-homomorphism and Thom spectra and proved the Thom isomorphism, which we used to compute H<sub>*</sub>(MU). On the last chapter we defined theta structures and proved the Pontryagin-Thom isomorphism, using it to calculate the cobordism ring with an almost complex structure thanks to H<sub>*</sub>(MU) and an degenerate Adams sseq. Grade 12/12, exam was a 1h15 presentation. <a href="PTiso.pdf">Incomplete notes</a>
 </details>
 
 ## Teaching 
