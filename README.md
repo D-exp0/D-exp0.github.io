@@ -13,7 +13,7 @@ topology, higher algebra, algebraic K-theory and stable homotopy theory. I’m s
 My CV is available upon request. You can email me at   depa [at] di [dot] ku [dot] dk.
 
 ## Theses
-<details open><summary><strong>Master thesis, <i>Classification of n-connective (2n-2)-truncated local systems</i> (University of Copenhagen, 2023)</strong> <a href="">pdf</a></summary>
+<details open><summary><strong>Master thesis, <i>Classification of n-connective (2n-2)-truncated local systems</i> (University of Copenhagen, 2023)</strong> <a href="Classification of n-connective (2n-2)-truncated local systems .pdf">pdf</a></summary>
   The main contribution theorem was a classification of certain kinds of spaces: we proved that the truncated unreduced infinity suspension functor τ<sub>≤2n−2</sub>Σ<sup>∞</sup><sub>+</sub> provides an equivalence between the category of n-connective (2n-2)-truncated anima/homotopy types An<sup>[n,2n-2]</sup> and the category of copoints in spectra, ie of maps to the truncated sphere of the form  τ<sub>≤2n−2</sub>Σ<sup>∞</sup><sub>+</sub> X ---> τ<sub>≤2n−2</sub> <strong>S</strong> , which are precisely the images through the mentioned functor of the unique map X ---> * for X in An<sup>[n,2n-2]</sup>. As a corollary, we classify local systems valued on those spaces, generalizing the classical gerbe classification. This is a new result that we believe could help develop the theory of dethomification. Publication is pending.
 </details>
   
