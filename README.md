@@ -26,7 +26,7 @@ Supervised by [Shachar Carmeli](https://sites.google.com/view/shachar-carmeli/ho
 Supervised by [Fernando Alcalde Cuesta](https://arxiv.org/search/math?searchtype=author&query=Cuesta%2C+F+A). Awarded with 10/10.
 
 ## Projects and notes
-<details><summary><strong>A map for infinity-categories' explorers (2024) </strong> <a href="">pdf</a>, under construction</summary>
+<details><summary><strong>A map for infinity-categories' explorers (2024) </strong> <a href="Map.pdf">pdf</a>, under construction</summary>
   A schematic recounting of what ∞-categories are, some of the key areas they unlock and interesting applications of higher algebraic concepts. Priority is given to showing varied aspects of the theory while trying to stay short and accesible, as the excuse for this project is to explain it to my brother, but hopefully it's useful for others, too.
 </details> 
 
